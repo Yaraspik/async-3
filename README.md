@@ -1,3 +1,3 @@
-# ASYNC-1
+# ASYNC-3
 
-[![Build status](https://ci.appveyor.com/api/projects/status/a3xglbu1br0j8w76?svg=true)](https://ci.appveyor.com/project/Yaraspik/async-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/449so20ca0pcayac?svg=true)](https://ci.appveyor.com/project/Yaraspik/async-3)
